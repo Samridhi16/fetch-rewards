@@ -14,19 +14,23 @@
     - The implemented project uses the second technique (Compute points when points are fetched) as it helps us to utilize our resources efficiently.
 
 ## Architecture
-    ![fetch_arch](https://github.com/Samridhi16/fetch-rewards/assets/26019260/89056cfe-74bc-4d57-ac1f-7329d609199b)
+<br> <br>
+    ![image](https://github.com/Samridhi16/fetch-rewards/assets/26019260/89056cfe-74bc-4d57-ac1f-7329d609199b)
+    
 ## Demo
 1. **Endpoint: Process Receipts**
     - **Path:** `/receipts/process`
     - **Method:** POST
     - **Payload:** Receipt JSON
     - **Response:** JSON containing an ID for the receipt.
+<br> <br>
     [![POST](https://github.com/Samridhi16/fetch-rewards/assets/26019260/133fff30-7e96-4fa3-8cf6-7efa005ef65e)](https://github.com/Samridhi16/fetch-rewards/assets/26019260/eccfb44c-b1d1-47ca-ada9-69b942b23e2a)
 
 2. **Endpoint: Get Points**
     - **Path:** `/receipts/{id}/points`
     - **Method:** GET
     - **Response:** A JSON object containing the number of points awarded.
+<br> <br>
     [![GET](https://github.com/Samridhi16/fetch-rewards/assets/26019260/8f6f0915-3fcf-47e0-967d-6a7aabd62263)](https://github.com/Samridhi16/fetch-rewards/assets/26019260/a4994976-155d-453b-ab85-f5f5aa41df3c)
 
 ## How to run:
