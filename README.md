@@ -48,9 +48,9 @@ To run the project:
 - Open the project fetch-rewards in Visual Studio Code or any editor of your choice.
 - Open the terminal and import all the necessary packages like gin to your project directory.
 - Run the following command and test the GET and POST methods using Postman or a web browser on localhost:8080
-    ```sh
-    go run main.go
-    ```
+```sh
+go run main.go
+```
 
     
 
