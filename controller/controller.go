@@ -57,8 +57,3 @@ func GetPoints(c *gin.Context) {
 	}
 	c.IndentedJSON(http.StatusNotFound, gin.H{"message": "No receipt found for that id"})
 }
-
-// Home Page
-func HomePage(c *gin.Context) {
-	c.String(http.StatusOK, "Hey there! This is Golang web service project for computing receipt rewards")
-}
