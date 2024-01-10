@@ -17,7 +17,7 @@
 <br> <br>
     ![image](https://github.com/Samridhi16/fetch-rewards/assets/26019260/89056cfe-74bc-4d57-ac1f-7329d609199b)
     
-## Demo (CLick on the thumbnails below to play the video)
+## Demo (Click on the thumbnails below to play the video)
 1. **Endpoint: Process Receipts**
     - **Path:** `/receipts/process`
     - **Method:** POST
