@@ -44,10 +44,14 @@ git clone https://github.com/Samridhi16/fetch-rewards.git
 cd fetch-rewards
 ```
 ### Running the Project
-To run the project, execute the following command:
+To run the project:
+    - Open the project fetch-rewards in Visual Studio Code or any editor of your choice.
+    - Open the terminal and import all the necessary packages like gin to your project directory.
+    - Run the following command and test the GET and POST methods using Postman or a web browser on localhost:8080
 ```sh
 go run main.go
 ```
+    
 
 
 
