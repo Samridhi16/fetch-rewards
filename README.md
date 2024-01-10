@@ -14,6 +14,7 @@
     - The implemented project uses the second technique (Compute points when points are fetched) as it helps us to utilize our resources efficiently.
 
 ## Architecture
+<br> <br>
     ![image](https://github.com/Samridhi16/fetch-rewards/assets/26019260/89056cfe-74bc-4d57-ac1f-7329d609199b)
     
 ## Demo (Click on the thumbnails below to play the video)
